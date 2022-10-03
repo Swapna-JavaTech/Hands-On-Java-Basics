@@ -1,0 +1,45 @@
+ 1.Write a Java program to sort following numeric array
+[23,12,45,67,90,23,54,67,8,1,14]
+
+2.Write a Java program to test if an array contains a 65 value using above array.
+
+3. Write a Java program to find the index of an array element
+4. Write a Java program to insert an element (8th position) into an array
+5.Write a Java program to find the common elements between two arrays of integers
+given below 
+
+Array1 = [23,12,45,67,90,23,54,67,8,1,14]
+Array2 = [43,32,45,97,90,23,54,7,8]
+
+6.Write a Java program to find the Third largest element in an array
+7. Write a Java program to find the Third smallest element in an array
+8. Write a Java program to find all pairs of elements in an array whose sum is equal to 21.
+9.Write a Java program to find common elements from four sorted (in non-decreasing order) arrays.
+10.Write a Java program to replace duplicate elements from an integer array with '0'
+11.Problem
+=========
+King’s Island needs a program for its admission booths. When visitors to the park come up to the booth to
+purchase their tickets, the worker uses this program to figure out how much to charge them. You will write
+this program.
+In the first version of the program, there is one ticket price of $30.00. Senior citizens (age ≥ 65) are given a
+50% discount. Write this program as follows. Import your Scanner. Declare the needed variables (the person’s
+age, the base price of a ticket ($30) and the price you will charge). Input the user’s age, compute the price of
+the ticket and output the result in a formatted way (that is, using a $). You do not need to use DecimalFormat
+for this part of the program but you will as you enhance it so you might want to set this up now. Save, compile
+and run your program a few times, asking the user for different ages such as 10, 50, 65, 80 and 0.
+
+12.Write the java statement that assigns 1 to x if y is greater than 0
+13. Suppose that score is a variable of type double. Write the java statement that increases
+the score by 5 marks if score is between 80 and 90
+14 . Rewrite in Java the following statement without using the NOT (!) operator:
+item = !( (i<10) | | (v>=50) )
+15. Write a java statement that prints true if x is an odd number and positive
+16. Write a java statement that prints true if both x and y are positive numbers
+17. Write a java statement that prints true if x and y have the same sign (-/+
+18.Write a program that takes as input an employee's salary and a rating of the employee's
+performance and computes the raise for the employee.
+performance rating here is being entered as a integer—the three possible ratings are "5 - Excellent", " 3 - Good", and " 1-Poor". An employee who is rated excellent will receive a 6% raise, one rated good will receive a 4% raise, and one rated
+poor will receive a 1.5% raise.
+19.  Write a Java program that reads a floating-point number and prints "zero" if the number is zero. Otherwise, print "positive" or "negative". Add "small" if the absolute value of the number is less than 1, or "large" if it exceeds 1,000,000
+20.Write a java program that reads an array and add sum of odd index numbers and multiply the even index numbers 
+index 0 is considered as odd.
